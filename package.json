@@ -1,0 +1,12 @@
+{
+  "name": "yugyeong-studycafe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "유경스터디까페 홈페이지",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
